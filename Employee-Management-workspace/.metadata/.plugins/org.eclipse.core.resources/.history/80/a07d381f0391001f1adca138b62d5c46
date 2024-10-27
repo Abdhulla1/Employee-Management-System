@@ -1,0 +1,5 @@
+package com.empmgmt.service;
+
+public class PasswordGenerator {
+
+}
